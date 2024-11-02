@@ -1,0 +1,7 @@
+digraph {
+	A [label=thietbi]
+	B [label=nguoidung_thietbi]
+	C [label=nguoidung_sudung]
+	A -> B
+	B -> C
+}
